@@ -74,6 +74,6 @@ Finally, you can log out.
 Install my-project with npm
 
 ```bash
-git clone https://github.com/username/repo.git](https://github.com/Narges99/RestApiOnlineShopDjango.git
+git clone https://github.com/Narges99/RestApiOnlineShopDjango.git
 cd repo
 pip install -r requirements.txt
